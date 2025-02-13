@@ -28,7 +28,7 @@ function App() {
         <HelloWorld /> 
       </div>
 
-      <h3 className='HolaMundo'> Hola Carlos  {count}</h3>
+      <h3 className='HolaMundo'> Hola Carlos Bustamante, presionaste el botón {count} veces</h3>
     </>
   )
 }
